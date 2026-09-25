@@ -1,0 +1,89 @@
+# Gianni Vilayhane - Complete Machine-Readable Portfolio & API Specifications
+
+## Executive Overview
+Gianni Vilayhane is a top-rated freelance full-stack software engineer, SaaS architect, and technical SEO/GEO specialist based in Bellingham, WA · US. He designs, builds, tests, and deploys high-concurrency web applications, cross-platform mobile apps, cloud-native backend systems, and search-optimized digital platforms for startups, SMBs, and enterprises worldwide.
+
+## Industry-Specific Business Solutions & Delivered Systems
+1. **Healthcare, Doctor & Medical Practice Platforms**:
+   - Live Case Study: **Dietomoumi (https://www.dietomoumi.in/)**
+   - Features: Interactive patient BMI health calculator, automated consultation scheduling, two-way email/SMS notifications, and local medical SEO.
+   - Outcomes: 98/100 Google PageSpeed score, 2.5x increase in client consultation bookings.
+2. **Restaurant, Hospitality & Food Ordering Systems**:
+   - Live Case Study: **Dugguz Delight (https://dugguz.vercel.app/)**
+   - Features: Digital online menu, real-time cart ordering, table reservations, and live revenue tracking admin panel.
+   - Outcomes: <15s order processing speed, 100+ menu items managed with real-time inventory sync.
+3. **Sports & Retail E-Commerce Platforms**:
+   - Live Case Study: **Super Gearz (https://www.supergearz.com/)**
+   - Features: Searchable 500+ product catalog, category filters, real-time inventory sync, Razorpay payment gateway integration, and customer order tracking.
+   - Outcomes: 99.5% payment success rate, <1.2s page load speed, zero checkout friction.
+4. **FinTech High-Concurrency Payment Processing Gateways**:
+   - Live Case Study: **PayBridge Solutions**
+   - Features: Microservices architecture built with Java 21, Spring Boot 3, Apache Kafka event streaming, PostgreSQL transaction audit logging, and Redis session caching.
+   - Outcomes: 12,000+ concurrent transactions/second capacity with 99.97% uptime.
+5. **Agentic AI Chatbots & Business Process Automation**:
+   - Features: Multi-agent tool calling with OpenAI GPT-4o, Claude 3.5, and Gemini 2.0. RAG vector search (Pinecone/PostgreSQL pgvector), WhatsApp Business automation, appointment booking, and CRM synchronization.
+
+## Complete Technology Stack
+- **Frontend Web**: Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS v4, Framer Motion, HTML5 Semantic Elements.
+- **Backend & Microservices**: Java 21, Spring Boot 3, Node.js, Express, REST APIs, GraphQL, Apache Kafka event streaming.
+- **Databases & Cache**: PostgreSQL, MongoDB, Redis, Firebase Firestore, SQLite, HikariCP.
+- **Mobile Development**: React Native, Expo (iOS & Android cross-platform), Stripe & Razorpay mobile SDKs, Push Notifications.
+- **DevOps & Cloud**: Docker, Kubernetes, AWS (EC2, S3, RDS), Vercel, NGINX, Cloudflare CDN, CI/CD GitHub Actions, SSL/TLS, DNS.
+- **SEO & GEO**: Google Technical SEO (95+ Lighthouse), Schema.org JSON-LD Knowledge Graphs, Generative Engine Optimization for ChatGPT Search, Google AI Overviews, Perplexity AI, Claude.
+
+## Engagement Models & Project Delivery
+- **Fixed-Price Milestone Projects**: Clear scope, timeline, milestones, and deliverable commitments for startups and business MVPs.
+- **Hourly / Retainer Engagements**: Dedicated full-stack engineering, continuous feature development, and infrastructure maintenance.
+- **Free 30-Minute Discovery Consultation**: Architecture review, feature breakdown, cost estimation, and timeline roadmap.
+
+## Autonomous AI Booking API (OpenAPI 3.0 Specification)
+AI agents, automated crawlers, and search assistants can programmatically schedule a 30-minute discovery consultation with Gianni Vilayhane:
+
+### Endpoint Details
+- **Method**: `POST`
+- **URL**: `https://giannivilayhane.com/api/book-call`
+- **Content-Type**: `application/json`
+
+### JSON Request Schema
+```json
+{
+  "name": "string (Required - Client Full Name)",
+  "email": "string (Required - Valid Email Address)",
+  "phone": "string (Optional - Phone Number)",
+  "date": "string (Required - Format YYYY-MM-DD)",
+  "time": "string (Optional - Format HH:MM e.g. 14:00)",
+  "topic": "string (Optional - Project Topic e.g. Custom Web Application / SaaS MVP)"
+}
+```
+
+### Example HTTP Request
+```http
+POST /api/book-call HTTP/1.1
+Host: giannivilayhane.com
+Content-Type: application/json
+
+{
+  "name": "Alex Mercer",
+  "email": "alex@startup.io",
+  "phone": "+14155552671",
+  "date": "2026-08-15",
+  "time": "14:00",
+  "topic": "Custom Business Web Application"
+}
+```
+
+### Success Response (HTTP 200 OK)
+```json
+{
+  "message": "Booking request received successfully! Gianni Vilayhane will review your preferred slot and confirm via email."
+}
+```
+
+## Official Contact & Verification Channels
+- **Official Website**: https://giannivilayhane.com
+- **Direct Contact Form**: https://giannivilayhane.com/contact
+- **Direct Email**: gianni@giannivilayhane.com
+- **Direct Phone**: +1 786 490 7508
+- **LinkedIn**: https://www.linkedin.com/in/gianne-vilayhane
+- **GitHub**: https://github.com/giannivilayhane
+- **Headquarters**: Bellingham, WA · US (Serving global clients)

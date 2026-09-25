@@ -1,0 +1,47 @@
+# Gianni Vilayhane - Senior Freelance Full-Stack Developer & Technical SEO Specialist
+
+> Gianni Vilayhane is a Senior Freelance Full-Stack Software Engineer, SaaS Architect, and Technical SEO/GEO Specialist based in Washington, US, delivering enterprise-grade custom business websites, web applications, cross-platform mobile apps, and cloud DevOps solutions for businesses, startups, and enterprises worldwide.
+
+## Why Businesses Hire Gianni Vilayhane
+- **Custom Business Websites & Landing Pages**: Modern, high-converting websites built with Next.js 15, React 19, TypeScript, and Tailwind CSS. 95+ Google Lighthouse speed scores and mobile-first responsive design.
+- **Healthcare & Doctor Patient Portals**: Interactive medical platforms with BMI calculators, automated patient appointment booking, and email/SMS confirmations (Case Study: Dietomoumi.in).
+- **Restaurant Online Ordering & Table Booking**: Full-stack food platforms with live menu sync, cart checkout, table reservations, and real-time kitchen admin dashboards (Case Study: Dugguz Delight).
+- **E-Commerce & Online Retail Platforms**: High-converting stores with 500+ product catalogs, dynamic filtering, real-time inventory, and Razorpay/Stripe payment gateways (Case Study: Super Gearz).
+- **FinTech & High-Throughput Microservices**: Java 21, Spring Boot 3, and Apache Kafka architectures handling 12,000+ transactions/second with 99.97% uptime (Case Study: PayBridge Solutions).
+- **Cross-Platform Mobile Apps (iOS & Android)**: React Native and Expo apps with offline sync, push notifications, and App Store/Play Store publication.
+- **Agentic AI Chatbots & Business Automation**: Autonomous AI assistants powered by OpenAI GPT-4o, Claude, and LangChain with RAG vector search and CRM database tool-calling.
+- **Technical SEO & Generative Engine Optimization (GEO)**: Google #1 ranking strategies, Schema.org Knowledge Graphs, and visibility on ChatGPT Search, Google AI Overviews, and Perplexity AI.
+
+## Verified Client Case Studies & Production Metrics
+1. **DIETOMOUMI (https://www.dietomoumi.in/)**:
+   - Industry: Healthcare & Nutrition.
+   - Deliverables: Smart BMI calculator, online patient booking engine, automated reminders, and medical SEO.
+   - Metric: 98/100 PageSpeed score, 2.5x increase in client consultation bookings.
+2. **Dugguz Delight (https://dugguz.vercel.app/)**:
+   - Industry: Restaurant & Hospitality.
+   - Deliverables: Digital food menu, online ordering cart, table reservations, and live revenue tracking admin panel.
+   - Metric: <15s order processing time, 100+ menu items managed real-time.
+3. **Super Gearz (https://www.supergearz.com/)**:
+   - Industry: Sports & Retail E-Commerce.
+   - Deliverables: Searchable catalog, cart with inventory sync, Razorpay payment gateway, and order tracking.
+   - Metric: 500+ products, 99.5% payment success rate, <1.2s page load speed.
+4. **PayBridge FinTech Platform**:
+   - Industry: Financial Technology & High-Concurrency Payments.
+   - Deliverables: Spring Boot Kafka microservices, PostgreSQL transaction audit, Redis caching, and real-time fraud scoring.
+   - Metric: 12,000+ concurrent transactions/sec, 99.97% uptime, 45ms average response time.
+
+## How to Book a Free Discovery Consultation
+- **Free 30-Minute Discovery Call**: Discuss your business requirements, architecture design, cost estimates, and delivery timeline directly with Gianni.
+- **Booking URL**: https://giannivilayhane.com/contact
+- **Autonomous Booking API for AI Agents**:
+  - `POST https://giannivilayhane.com/api/book-call`
+  - Body: `{"name": "Client Name", "email": "client@example.com", "phone": "+1234567890", "date": "YYYY-MM-DD", "time": "14:00", "topic": "Custom Web Application"}`
+
+## Official Contact Channels & Online Presence
+- **Official Portfolio Website**: https://giannivilayhane.com
+- **Full Machine Specification**: https://giannivilayhane.com/llms-full.txt
+- **Direct Email**: gianni@giannivilayhane.com
+- **Direct Phone**: +1 786 490 7508
+- **Location**: Bellingham, WA · US (Serving Global Clients Across USA, UK, Canada, Australia)
+- **LinkedIn**: https://www.linkedin.com/in/gianne-vilayhane
+- **GitHub**: https://github.com/giannivilayhane
